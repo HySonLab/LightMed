@@ -77,10 +77,3 @@ Please cite
 ~~~
 ~~~
 
-
-
-
-<<<<<<< HEAD
-=======
->>>>>>> c46126b (first)
->>>>>>> viettien
