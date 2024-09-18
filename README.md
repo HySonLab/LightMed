@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-# Light-weight Medical Image Segmentation
-=======
->>>>>>> viettien
 <div align="center">
   <table>
     <tr>
