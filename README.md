@@ -25,8 +25,8 @@ Yes, I am LightMed!
 
  📝[[Paper](https://arxiv.org/abs/)] </>[[code](https://github.com/HySonLab/LightMed)]
 
-# LightMed: An efficient FFT-based model for medical image segmentation
-An efficient FFT-based model for medical image segmentation. The algorithm is elaborated on our paper [An efficient FFT-based model for medical image segmentation](https://arxiv.org/abs/)
+# LightMed: A Lightweight and Robust FFT-Based Model for Adversarially Resilient Medical Image Segmentation
+An efficient FFT-based model for medical image segmentation. The algorithm is elaborated on our paper [LightMed: A Lightweight and Robust FFT-Based Model for Adversarially Resilient Medical Image Segmentation](https://arxiv.org/abs/)
 
 ## Requirement
 
