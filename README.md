@@ -23,7 +23,7 @@ Yes, I am LightMed!
 
 **LightMed**
 
- 📝[[Paper](https://arxiv.org/abs/)] </>[[code](https://github.com/HySonLab/LightMed)]
+ 📝[[Paper](https://www.biorxiv.org/content/10.1101/2024.09.28.615584v1.full.pdf)] </>[[code](https://github.com/HySonLab/LightMed)]
 
 # LightMed: A Lightweight and Robust FFT-Based Model for Adversarially Resilient Medical Image Segmentation
 An efficient FFT-based model for medical image segmentation. The algorithm is elaborated on our paper [LightMed: A Lightweight and Robust FFT-Based Model for Adversarially Resilient Medical Image Segmentation](https://arxiv.org/abs/)
