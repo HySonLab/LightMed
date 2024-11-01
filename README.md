@@ -32,11 +32,10 @@ An efficient FFT-based model for medical image segmentation. The algorithm is el
 
 ``pip install -r requirement.txt``
 
-Test
 
 ## Example Cases
 ### Melanoma Segmentation from Skin Images (2018)
-1. Download ISIC_2018 datast we processing from https://www.kaggle.com/datasets/haminhhieu/isic-2018-data. You must download and your dataset folder under "data" should be like:
+1. Download ISIC_2018 dataset we processing from https://www.kaggle.com/datasets/haminhhieu/isic-2018-data. You must download and your dataset folder under "data" should be like:
 
 ~~~
 ISIC_2018
@@ -67,9 +66,14 @@ ISIC_2018
 
 4. For evaluation attack, example run: ``python test_fgsm_attack.py --model_path *folder you save checkpoint* --test_dataset_path *folder test dataset* --attack``
 
-### Other Examples
-...
+### Other datasets we used
+- [ISIC 2017](https://www.kaggle.com/datasets/phmvittin/isic-2017-rerun)
+- [Lung-Covid19](https://www.kaggle.com/datasets/haminhhieu/lung-data/data)
+- [pH2](https://www.kaggle.com/datasets/haminhhieu/skin-lesion-dataset)
+- [ACDC](https://www.kaggle.com/datasets/haminhhieu/acdc-dataset-lightmed)
 ### Run on  your own dataset
+We suggest you following this notebook to set up your own dataset
+[Link repair Dataset](https://www.kaggle.com/code/haminhhieu/skin-lesion-segmentation-using-unet/notebook).
 Welcome to open issues if you meet any problem. It would be appreciated if you could contribute your dataset extensions. Unlike natural images, medical images vary a lot depending on different tasks. Expanding the generalization of a method requires everyone's efforts.
 
 ## Thanks
