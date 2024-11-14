@@ -6,10 +6,10 @@
     </tr>
   </table>
 </div>
-
+https://www.biorxiv.org/content/10.1101/2024.09.28.615584v1.full.pdf
 <p align="center">
-<a href="https://arxiv.org/abs/" alt="arXiv">
-    <img src="https://img.shields.io/badge/arXiv-2409.10594-b31b1b.svg?style=flat" /></a>
+<a href="https://www.biorxiv.org/content/10.1101/2024.09.28.615584v1.full.pdf">
+    <img src="https://img.shields.io/badge/bioRxiv-2024.09.28.615584-b31b1b.svg?style=flat" />
       <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-1.x %20%7C%202.x-673ab7.svg" alt="Tested PyTorch Versions"></a>
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-4caf50.svg" alt="License"></a>
 </p>
