@@ -15,18 +15,19 @@ https://www.biorxiv.org/content/10.1101/2024.09.28.615584v1.full.pdf
 </p>
 
 <p align="center">
-<img src="LightMed.jpg" width="600"> <br>
-Yes, I am LightMed!
+<img src="FFTMed.jpg" width="600"> <br>
+Yes, I am FFTMed!
 </p>
 
-🎉 This is a PyTorch/GPU implementation of the paper **LightMed (LM)**, which learning on frequecy domain.
+🎉 This is a PyTorch/GPU implementation of the paper **FFTMed**, which learning on frequecy domain.
 
-**LightMed**
+**FFTMed**
 
- 📝[[Paper](https://www.biorxiv.org/content/10.1101/2024.09.28.615584v1.full.pdf)] </>[[code](https://github.com/HySonLab/LightMed)]
+ 📝[[Paper]] </>[[code](https://github.com/HySonLab/LightMed)]
 
-# LightMed: A Lightweight and Robust FFT-Based Model for Adversarially Resilient Medical Image Segmentation
-An efficient FFT-based model for medical image segmentation. The algorithm is elaborated on our paper [LightMed: A Lightweight and Robust FFT-Based Model for Adversarially Resilient Medical Image Segmentation](https://www.biorxiv.org/content/10.1101/2024.09.28.615584v1.full.pdf)
+# FFTMed: Leveraging Fast-Fourier Transform for a Lightweight and Adversarial-Resilient Medical Image Segmentation Framework
+An efficient FFT-based model for medical image segmentation. The algorithm is elaborated on our paper [FFTMed: Leveraging Fast-Fourier Transform for a Lightweight and Adversarial-Resilient Medical Image
+Segmentation Framework]
 
 ## Requirement
 
@@ -77,20 +78,4 @@ Welcome to open issues if you meet any problem. It would be appreciated if you c
 ## Thanks
 Code copied a lot from [soleilssss/ FFCNet](https://github.com/soleilssss/FFCNet), [soleilssss/ AFACNet](https://github.com/soleilssss/AFACNet), [JCruan519/EGE-UNet](https://github.com/JCruan519/EGE-UNet), and [adam-dziedzic/bandlimited-cnns](https://github.com/adam-dziedzic/bandlimited-cnns)
 
-## Please cite our work!
-
-```bibtex
-@article {Pham2024.09.28.615584,
-	author = {Pham, Viet Tien and Ha, Minh Hieu and Bui, Bao V. Q. and Hy, Truong Son},
-	title = {LightMed: A Light-weight and Robust FFT-Based Model for Adversarially Resilient Medical Image Segmentation},
-	elocation-id = {2024.09.28.615584},
-	year = {2024},
-	doi = {10.1101/2024.09.28.615584},
-	publisher = {Cold Spring Harbor Laboratory},
-	abstract = {Accurate and reliable medical image segmentation is essential for computer-aided diagnosis and formulating appropriate treatment plans. However, real-world challenges such as suboptimal image quality and computational resource constraints hinder the effective deployment of deep learning-based segmentation models. To address these issues, we propose LightMed, a novel efficient neural architecture based on Fast Fourier Transform (FFT). Different from prior works, our model directly learns on the frequency domain, harnessing its resilience to noise and uneven brightness, which common artifacts found in medical images. By focusing on low-frequency image components, we significantly reduce computational complexity while preserving essential image features. Our deep learning architecture extracts discriminative features directly from the Fourier domain, leading to improved segmentation accuracy and robustness compared to traditional spatial domain methods. Additionally, we propose a new benchmark incorporating various levels of Gaussian noise to assess susceptibility to noise attacks. The experimental results demonstrate that LightMed not only effectively eliminates noise and consistently achieves accurate image segmentation but also shows robust resistance to imperceptible adversarial attacks compared to other baseline models. Our new benchmark datasets and source code are publicly available at https://github.com/HySonLab/LightMedCompeting Interest StatementThe authors have declared no competing interest.},
-	URL = {https://www.biorxiv.org/content/early/2024/09/30/2024.09.28.615584},
-	eprint = {https://www.biorxiv.org/content/early/2024/09/30/2024.09.28.615584.full.pdf},
-	journal = {bioRxiv}
-}
-```
 
