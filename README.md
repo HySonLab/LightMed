@@ -2,7 +2,7 @@
   <table>
     <tr>
       <td><img src="logo.jpg" width="150"></td>
-      <td><h1>LightMed: <br>A PyTorch Implementation</h1></td>
+      <td><h1>FFTMed: <br>A PyTorch Implementation</h1></td>
     </tr>
   </table>
 </div>
