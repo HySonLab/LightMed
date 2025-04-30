@@ -67,10 +67,8 @@ ISIC_2018
 4. For evaluation attack, example run: ``python test_fgsm_attack.py --model_path *folder you save checkpoint* --test_dataset_path *folder test dataset* --attack``
 
 ### Other datasets we used
-- [ISIC 2017](https://www.kaggle.com/datasets/haminhhieu/isic-2017-new/data)
-- [Lung-Covid19](https://www.kaggle.com/datasets/haminhhieu/lung-data)
-- [pH2](https://www.kaggle.com/datasets/haminhhieu/skin-lesion-dataset)
-- [ACDC](https://www.kaggle.com/datasets/haminhhieu/acdc-dataset-lightmed)
+- [Data](https://zenodo.org/records/15310397)
+
 ### Run on  your own dataset
 We suggest you following this notebook to set up your own dataset
 [Link repair Dataset](https://www.kaggle.com/code/haminhhieu/skin-lesion-segmentation-using-unet/notebook).
