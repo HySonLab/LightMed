@@ -35,7 +35,7 @@ An efficient FFT-based model for medical image segmentation. The algorithm is el
 
 ## Example Cases
 ### Melanoma Segmentation from Skin Images (2018)
-1. Download ISIC_2018 dataset we processing from https://www.kaggle.com/datasets/haminhhieu/isic-data-2018/data. You must download and your dataset folder under "data" should be like:
+1. Download ISIC_2018 dataset we processing from (https://zenodo.org/records/15310397). You must download and your dataset folder under "data" should be like:
 
 ~~~
 ISIC_2018
