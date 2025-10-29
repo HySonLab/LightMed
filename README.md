@@ -20,6 +20,8 @@ Yes, I am FFTMed!
 
 🎉 This is a PyTorch/GPU implementation of the paper **FFTMed**, which learning on frequecy domain.
 
+The paper is published at Scientific Reports - Nature: https://www.nature.com/articles/s41598-025-21799-5
+
 **FFTMed**
 
  📝[[Paper]] </>[[code](https://github.com/HySonLab/LightMed)]
